@@ -1,3 +1,9 @@
+--- coolspring1293 forked from https://github.com/bigfa/nm --
+--- Thanks a lot to the author --
+--- I use the code only for fun and PHP learning --- 
+--- Thank you again! --- 
+
+
 === Netease Music ===
 Contributors: bigfa
 Tags: wordpress, 163,music ,网易云音乐, 虾米音乐
